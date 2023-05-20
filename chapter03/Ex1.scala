@@ -13,3 +13,5 @@ object Ex1 {
       print(greetStrings(i))
   }
 }
+
+
